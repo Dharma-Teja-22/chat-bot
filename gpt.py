@@ -1,9 +1,9 @@
 import streamlit as st
 import google.generativeai as genai
-
+import os
 
 def generate_response(prompt):
-    genai.configure(api_key="AIzaSyBCjsa0d1qUbfgvIRJQZc4VM2FPEh4leK0")
+    genai.configure(api_key=os.environ["api_key"])
 
     # Create the model
     generation_config = {"temperature": 1,
