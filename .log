@@ -1,0 +1,598 @@
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T10:47:24.066Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:13:48.137Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:15:23.353Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:15:33.748Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:15:50.711Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:19:02.504Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:20:06.921Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:49:58.388Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:51:14.507Z"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":13,"status":"failed","timestamp":"2024-08-13T11:51:18.257Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-13T11:53:45.023Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":1,"status":"failed","timestamp":"2024-08-13T11:54:02.491Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:54:26.004Z"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":12,"status":"failed","timestamp":"2024-08-13T11:54:28.262Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:54:41.220Z"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":18,"status":"failed","timestamp":"2024-08-13T11:54:43.947Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/test","query":{},"responseTime":3,"status":"failed","timestamp":"2024-08-13T11:54:59.367Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/test","query":{},"responseTime":1,"status":"failed","timestamp":"2024-08-13T11:55:07.641Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:55:36.735Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:56:02.654Z"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T11:56:13.885Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"email":"revant@gmail.com","firstName":"Revanth","hireDate":"2024-03-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"999965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":4,"status":"success","timestamp":"2024-08-13T11:56:41.322Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T11:57:03.353Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":42,"status":"success","timestamp":"2024-08-13T11:57:46.283Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:02:07.410Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ef28db0b-5969-11ef-8683-8cec4bc9914d","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":18,"status":"success","timestamp":"2024-08-13T12:02:12.690Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:03:28.626Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":15,"status":"success","timestamp":"2024-08-13T12:03:32.951Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:04:22.939Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:04:45.541Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":17,"status":"success","timestamp":"2024-08-13T12:04:49.026Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:06:02.838Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":15,"status":"success","timestamp":"2024-08-13T12:06:07.495Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:12:13.941Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:13:27.200Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":17,"status":"success","timestamp":"2024-08-13T12:13:38.981Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:15:15.794Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:15:20.094Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-13T12:15:26.869Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:16:34.135Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":18,"status":"success","timestamp":"2024-08-13T12:16:42.480Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:17:57.925Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"Hemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee519f81-596b-11ef-8683-8cec4bc9914d","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":15,"status":"success","timestamp":"2024-08-13T12:19:17.289Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:20:54.866Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:23:16.507Z"}
+{"body":{"departmentId":1,"email":"hemant@gmail.com","firstName":"kemanth","hireDate":"2024-04-20","lastName":"Lanka","managerId":"ee519f81-596b-11ef-8683-8cec4bc9914d","phoneNumber":"9969965916","salary":70000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/employee/addEmployee","query":{},"responseTime":21,"status":"failed","timestamp":"2024-08-13T12:24:28.012Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:24:39.374Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:25:16.291Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:26:31.341Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/employee/temp","query":{},"responseTime":6,"status":"failed","timestamp":"2024-08-13T12:26:56.192Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:27:32.442Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:27:33.475Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/temp","query":{},"responseTime":10,"status":"success","timestamp":"2024-08-13T12:27:36.441Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:29:34.491Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T12:29:45.374Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:07:00.422Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:09:09.874Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:09:35.972Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:24:02.445Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:27:44.129Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:27:45.393Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:30:20.513Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:30:36.114Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:32:08.926Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:33:09.444Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:34:52.096Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:40:24.144Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":16,"status":"failed","timestamp":"2024-08-13T13:41:39.943Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:41:49.929Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":19,"status":"failed","timestamp":"2024-08-13T13:41:52.571Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:42:29.561Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":13,"status":"failed","timestamp":"2024-08-13T13:42:31.384Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:42:52.577Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T13:42:55.026Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:43:03.916Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T13:43:06.098Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:43:25.530Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":33,"status":"failed","timestamp":"2024-08-13T13:43:28.325Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:43:40.602Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":17,"status":"failed","timestamp":"2024-08-13T13:43:43.071Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:43:52.462Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":13,"status":"failed","timestamp":"2024-08-13T13:43:54.332Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:44:13.493Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:51:01.043Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:53:08.611Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:53:58.596Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:55:34.045Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:57:54.894Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:58:18.111Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T13:59:42.962Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:03:56.160Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:04:03.044Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/employee/assignEmployee","query":{},"responseTime":15,"status":"failed","timestamp":"2024-08-13T14:05:24.312Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:05:49.028Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":13,"status":"failed","timestamp":"2024-08-13T14:05:50.825Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:09:32.384Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:09:50.163Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:09:53.244Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:10:04.326Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T14:10:18.403Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:10:54.326Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":13,"status":"failed","timestamp":"2024-08-13T14:10:57.169Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:15:24.210Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:18:09.878Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:18:12.763Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:19:26.910Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":60,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T14:19:35.254Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:19:56.465Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":60,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":16,"status":"failed","timestamp":"2024-08-13T14:20:06.360Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:20:29.992Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":60,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T14:20:34.101Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:22:55.644Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":60,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":19,"status":"failed","timestamp":"2024-08-13T14:22:57.735Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-13T14:27:06.846Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:27:59.094Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":23,"status":"failed","timestamp":"2024-08-13T14:28:01.217Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:28:31.894Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":14,"status":"failed","timestamp":"2024-08-13T14:28:33.959Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:29:27.038Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":41,"status":"failed","timestamp":"2024-08-13T14:29:28.864Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:46:30.945Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":47,"status":"failed","timestamp":"2024-08-13T14:50:10.709Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:51:25.216Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":53,"status":"failed","timestamp":"2024-08-13T14:51:35.040Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:55:14.681Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T14:55:37.650Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":47,"status":"failed","timestamp":"2024-08-13T14:55:46.152Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-13T15:00:33.021Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:00:52.303Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":43,"status":"failed","timestamp":"2024-08-13T15:00:56.254Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:02:42.070Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:03:06.677Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":44,"status":"failed","timestamp":"2024-08-13T15:03:12.518Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:03:22.707Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:03:29.524Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":64,"status":"failed","timestamp":"2024-08-13T15:05:04.069Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:08:48.145Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":45,"status":"failed","timestamp":"2024-08-13T15:08:58.359Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:21:34.282Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:21:54.007Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":48,"status":"failed","timestamp":"2024-08-13T15:21:58.243Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:22:06.973Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:22:09.658Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":44,"status":"failed","timestamp":"2024-08-13T15:22:11.476Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:22:23.664Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":42,"status":"failed","timestamp":"2024-08-13T15:22:27.375Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:25:12.611Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":42,"status":"failed","timestamp":"2024-08-13T15:25:15.061Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:27:20.910Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":45,"status":"failed","timestamp":"2024-08-13T15:27:22.470Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:27:49.117Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":49,"status":"failed","timestamp":"2024-08-13T15:27:51.464Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:28:10.241Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":47,"status":"failed","timestamp":"2024-08-13T15:28:11.935Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:28:28.661Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":46,"status":"failed","timestamp":"2024-08-13T15:28:38.922Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:29:19.484Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":53,"status":"failed","timestamp":"2024-08-13T15:29:21.143Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:29:27.540Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":9},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":42,"status":"failed","timestamp":"2024-08-13T15:29:29.959Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":3,"status":"failed","timestamp":"2024-08-13T15:29:40.179Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:30:27.375Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:30:50.042Z"}
+{"body":{"employee_id":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":42,"status":"failed","timestamp":"2024-08-13T15:30:51.816Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:31:54.138Z"}
+{"body":{"employeId":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":45,"status":"failed","timestamp":"2024-08-13T15:32:26.663Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":16,"status":"failed","timestamp":"2024-08-13T15:32:45.265Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:33:02.567Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:33:07.085Z"}
+{"body":{"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":79,"status":"success","timestamp":"2024-08-13T15:33:10.996Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:33:33.720Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T15:33:45.417Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":47,"status":"failed","timestamp":"2024-08-13T15:33:50.391Z","userAgent":"PostmanRuntime/7.41.0"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":29,"status":"success","timestamp":"2024-08-13T15:34:06.933Z","userAgent":"PostmanRuntime/7.41.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T16:59:32.267Z"}
+{"body":{"departmentId":1,"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","hoursWorked":70,"projectId":1,"role":"developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":51,"status":"failed","timestamp":"2024-08-13T17:11:13.051Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1,"email":"samule@gmail.com","firstName":"Samule","hireDate":"2024-01-20","lastName":"Marine","managerId":"ee519f81-596b-11ef-8683-8cec4bc9914d","phoneNumber":"8969965916","salary":40000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-13T17:24:51.695Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:25:45.241Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:25:59.889Z"}
+{"body":{"departmentId":2,"email":"denise@gmail.com","firstName":"Denise","hireDate":"2023-11-20","lastName":"Mar","managerId":"","phoneNumber":"8978965916","salary":50000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":23,"status":"success","timestamp":"2024-08-13T17:27:01.349Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"email":"denise@gmail.com","firstName":"Denise","hireDate":"2023-11-20","lastName":"Mar","managerId":null,"phoneNumber":"8978965916","salary":50000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":3,"status":"success","timestamp":"2024-08-13T17:27:17.973Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:27:31.748Z"}
+{"body":{"departmentId":2,"email":"denvar@gmail.com","firstName":"Denvar","hireDate":"2023-10-20","lastName":"Marbar","managerId":null,"phoneNumber":"8998965916","salary":55000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":24,"status":"success","timestamp":"2024-08-13T17:28:10.042Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"email":"denise@gmail.com","firstName":"Denise","hireDate":"2023-11-20","lastName":"Mar","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8978965916","salary":50000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":3,"status":"success","timestamp":"2024-08-13T17:32:25.137Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"email":"denise@gmail.com","firstName":"Maguire","hireDate":"2023-01-20","lastName":"Marn","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8568965916","salary":60000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":2,"status":"success","timestamp":"2024-08-13T17:32:54.374Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:33:22.144Z"}
+{"body":{"departmentId":2,"email":"maguire@gmail.com","firstName":"Maguire","hireDate":"2023-01-20","lastName":"Marn","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8568965916","salary":60000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":21,"status":"success","timestamp":"2024-08-13T17:33:24.554Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:36:02.371Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:36:48.207Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:36:48.969Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:38:22.901Z"}
+{"body":{"employeeId":"249ad573-599a-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/employee/deleteEmployee","query":{},"responseTime":15,"status":"failed","timestamp":"2024-08-13T17:39:11.581Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"249ad573-599a-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/v1/employee/deleteEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-13T17:39:17.488Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:39:55.317Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:39:57.840Z"}
+{"body":{"employeeId":"249ad573-599a-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":96,"status":"failed","timestamp":"2024-08-13T17:40:00.917Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:40:35.935Z"}
+{"body":{"departmentId":2,"email":"maguire@gmail.com","firstName":"Maguire","hireDate":"2023-01-20","lastName":"Marn","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8568965916","salary":60000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":24,"status":"success","timestamp":"2024-08-13T17:43:03.624Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"249ad573-599a-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":9,"status":"failed","timestamp":"2024-08-13T17:43:17.300Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:44:43.250Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:45:04.438Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:45:13.760Z"}
+{"body":{"employeeId":"249ad573-599a-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":43,"status":"success","timestamp":"2024-08-13T17:45:25.242Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:45:43.548Z"}
+{"body":{"employeeId":"7dc22d3c-599b-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":99,"status":"success","timestamp":"2024-08-13T17:47:03.619Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"email":"maguire@gmail.com","firstName":"Maguire","hireDate":"2023-01-20","lastName":"Marn","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8568965916","salary":60000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":3,"status":"success","timestamp":"2024-08-13T17:47:11.084Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:50:55.636Z"}
+{"body":{"employeeId":"69244fe7-5999-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":79,"status":"success","timestamp":"2024-08-13T17:51:31.501Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:51:55.669Z"}
+{"body":{"employeeId":"69244fe7-5999-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":47,"status":"success","timestamp":"2024-08-13T17:51:57.863Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":3,"email":"maguire@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8568965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":11,"status":"success","timestamp":"2024-08-13T17:55:14.145Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:55:49.598Z"}
+{"body":{"departmentId":2,"email":"maguire@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":24,"status":"success","timestamp":"2024-08-13T17:55:52.312Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:56:42.952Z"}
+{"body":{"departmentId":2,"email":"rechie@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":21,"status":"success","timestamp":"2024-08-13T17:56:45.774Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"email":"rechie@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":3,"status":"success","timestamp":"2024-08-13T17:57:09.544Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T17:58:22.849Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:01:58.684Z"}
+{"body":{"departmentId":2,"email":"rechie@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":37,"status":"success","timestamp":"2024-08-13T18:02:08.982Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:02:26.929Z"}
+{"body":{"departmentId":2,"email":"rechie@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":40,"status":"failed","timestamp":"2024-08-13T18:02:30.397Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:09:10.401Z"}
+{"body":{"departmentId":2,"email":"rechie@gmail.com","firstName":"Rechie","hireDate":"2023-05-20","lastName":"Marny","managerId":"69244fe7-5999-11ef-8683-8cec4bc9914d","phoneNumber":"8560965916","salary":65000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":49,"status":"failed","timestamp":"2024-08-13T18:09:14.267Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:18:14.268Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:21:26.168Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:21:44.487Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":47,"status":"success","timestamp":"2024-08-13T18:26:49.532Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:27:19.533Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:28:00.883Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:28:43.444Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:44:01.652Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/temp","query":{},"responseTime":8,"status":"success","timestamp":"2024-08-13T18:44:05.899Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:58:15.685Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T18:58:24.202Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/employee/fetchEmployee","query":{},"responseTime":12,"status":"failed","timestamp":"2024-08-13T18:58:46.512Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/employee/fetchEmployee","query":{},"responseTime":7,"status":"failed","timestamp":"2024-08-13T18:59:42.260Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:01:21.584Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":44,"status":"success","timestamp":"2024-08-13T19:01:23.863Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:02:25.901Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":37,"status":"success","timestamp":"2024-08-13T19:02:27.449Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":17,"status":"success","timestamp":"2024-08-13T19:04:10.535Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:04:26.319Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":45,"status":"failed","timestamp":"2024-08-13T19:04:29.140Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:04:51.607Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":55,"status":"success","timestamp":"2024-08-13T19:04:54.394Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:05:52.012Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":44,"status":"failed","timestamp":"2024-08-13T19:05:53.868Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"project_id":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":6,"status":"failed","timestamp":"2024-08-13T19:06:01.183Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:06:40.538Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:06:46.522Z"}
+{"body":{"projectId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":43,"status":"failed","timestamp":"2024-08-13T19:06:49.883Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-13T19:07:13.583Z"}
+{"body":{"projectId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":44,"status":"success","timestamp":"2024-08-13T19:07:17.114Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T05:54:56.388Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T05:59:32.825Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:01:42.204Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  console.lpg is not a function","stack":"TypeError: console.lpg is not a function\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:15:13","timestamp":"2024-08-14T06:01:42.210Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:01:58.515Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  console.lpg is not a function","stack":"TypeError: console.lpg is not a function\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:15:13","timestamp":"2024-08-14T06:01:58.520Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:02:13.902Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:02:25.811Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:02:27.229Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  console.lpg is not a function","stack":"TypeError: console.lpg is not a function\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:15:13","timestamp":"2024-08-14T06:02:27.235Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:02:34.661Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T06:51:10.920Z"}
+{"level":"info","message":"inside test","timestamp":"2024-08-14T06:53:21.819Z"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/test","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T06:53:21.834Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/temp","query":{},"responseTime":6,"status":"success","timestamp":"2024-08-14T06:53:35.805Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":106,"status":"failed","timestamp":"2024-08-14T06:54:01.688Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:00:01.085Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:00:26.084Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:14.295Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:23.598Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:28.721Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:33.672Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  undefined is not iterable (cannot read property Symbol(Symbol.iterator))","stack":"TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:17:5","timestamp":"2024-08-14T07:01:33.686Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:45.934Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:01:46.035Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:47.497Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:01:47.563Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:52.176Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:01:52.269Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:57.668Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:01:57.740Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:01:59.537Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:01:59.595Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:06.092Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:06.163Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:09.736Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:09.799Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:17.535Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:17.603Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:21.275Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:21.341Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:24.519Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:24.591Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:26.637Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:26.695Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:28.868Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:28.972Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:44.243Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:44.309Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:02:56.155Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:02:56.229Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:03:05.520Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:03:05.587Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:03:09.597Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:03:09.662Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:03:40.425Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T07:03:40.490Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:04:13.682Z"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T07:04:27.014Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":33,"status":"success","timestamp":"2024-08-14T07:05:57.663Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:06:31.444Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'\n    at DerivedLogger.log (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:18:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-14T07:06:31.508Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:06:52.981Z"}
+{"level":"info","message":"Database Connection Failed! Bad Config:  Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'\n    at DerivedLogger.log (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:18:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-14T07:06:53.049Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:06:59.617Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:07:00.663Z"}
+{"level":"error","message":"Database Connection Failed! Bad Config:  Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'\n    at DerivedLogger.log (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:18:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-14T07:07:00.725Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":34,"status":"failed","timestamp":"2024-08-14T07:10:42.225Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":8,"status":"failed","timestamp":"2024-08-14T07:11:02.305Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:11:43.895Z"}
+{"level":"error","message":"Database Connection Failed! Bad Config:  Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'\n    at DerivedLogger.log (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:18:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-14T07:11:43.955Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":20,"status":"failed","timestamp":"2024-08-14T07:11:48.615Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:13:24.767Z"}
+{"level":"error","message":"Database Connection Failed! Bad Config:  Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'","stack":"TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MySQL database successfully!'\n    at DerivedLogger.log (C:\\Users\\USER\\Desktop\\node-task1\\node_modules\\winston\\lib\\winston\\logger.js:214:20)\n    at file:///C:/Users/USER/Desktop/node-task1/src/app/v1/utils/dbConnection.js:18:14\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-08-14T07:13:24.841Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:13:55.275Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:13:55.336Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":36,"status":"success","timestamp":"2024-08-14T07:14:05.142Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:19:58.795Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:19:58.858Z"}
+{"body":{"department_id":3,"email":"michaelscott@example.com","employee_id":"345e6789-e89b-12d3-a456-426614174002","first_name":"Michael","hire_date":"1992-03-01","last_name":"Scott","manager_id":"2dcc02a0-5a09-11ef-a706-0a0027000005","phone_number":"5551212","salary":100000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/employee/addEmployee","query":{},"responseTime":32,"status":"failed","timestamp":"2024-08-14T07:20:01.846Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"michaelscott@example.com","firstName":"Michael","hireDate":"1992-03-01","lastName":"Scott","managerId":"2dcc02a0-5a09-11ef-a706-0a0027000005","phoneNumber":"5551212","salary":100000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":34,"status":"success","timestamp":"2024-08-14T07:20:52.655Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/employee/addEmployee","query":{},"responseTime":3,"status":"failed","timestamp":"2024-08-14T07:22:38.071Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":1,"email":"dwightschrute@example.com","firstName":"Dwight","hireDate":"2004-02-15","lastName":"Schrute","managerId":"2dcc02a0-5a09-11ef-a706-0a0027000005","phoneNumber":"5551213","salary":75000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":18,"status":"success","timestamp":"2024-08-14T07:22:52.814Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"jimhalpert@example.com","firstName":"Jim","hireDate":"2003-06-28","lastName":"Halpert","managerId":"2dcc02a0-5a09-11ef-a706-0a0027000005","phoneNumber":"5551214","salary":80000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":16,"status":"success","timestamp":"2024-08-14T07:23:41.472Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"jimhalpert@example.com","firstName":"Jim","hireDate":"2003-06-28","lastName":"Halpert","managerId":"2dcc02a0-5a09-11ef-a706-0a0027000005","phoneNumber":"5551214","salary":80000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":16,"status":"failed","timestamp":"2024-08-14T07:23:43.981Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"pambeesly@example.com","firstName":"Pam","hireDate":"2004-03-10","lastName":"Beesly","managerId":null,"phoneNumber":"5551215","salary":60000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":16,"status":"success","timestamp":"2024-08-14T07:25:03.485Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"stanleyhudson@example.com","firstName":"Stanley","hireDate":"1997-11-25","lastName":"Hudson","managerId":"52aa7252-5a0e-11ef-a706-0a0027000005","phoneNumber":"5551216","salary":72000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T07:26:04.772Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":3,"email":"angelamartin@example.com","firstName":"Angela","hireDate":"2006-04-20","lastName":"Martin","managerId":"52aa7252-5a0e-11ef-a706-0a0027000005","phoneNumber":"5551217","salary":68000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":20,"status":"success","timestamp":"2024-08-14T07:26:25.296Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"PUT","path":"/v1/employee/addEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-14T07:33:03.843Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"PUT","path":"/v1/employee/addEmployee","query":{},"responseTime":4,"status":"failed","timestamp":"2024-08-14T07:33:12.589Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"employeeId":"21c84d2a-5a0e-11ef-a706-0a0027000005","salary":88000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"PUT","path":"/v1/employee/addEmployee","query":{},"responseTime":3,"status":"failed","timestamp":"2024-08-14T07:33:18.810Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"employeeId":"21c84d2a-5a0e-11ef-a706-0a0027000005","salary":88000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":40,"status":"success","timestamp":"2024-08-14T07:33:35.892Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"employeeId":"21c84d2a-5a0e-11ef-a706-0a0027000005","salary":8000},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":9,"status":"failed","timestamp":"2024-08-14T07:33:57.210Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":1,"employeeId":"04c74b55-5a0e-11ef-a706-0a0027000005","hoursWorked":35,"projectId":1,"role":"Developer"},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":17,"status":"success","timestamp":"2024-08-14T07:42:57.493Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"departmentId":1,"employeeId":"04c74b55-5a0e-11ef-a706-0a0027000005","hoursWorked":35,"projectId":1,"role":"Developer"},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":7,"status":"failed","timestamp":"2024-08-14T07:43:17.760Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:02.527Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:02.602Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:08.219Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:08.284Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:09.680Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:09.742Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:14.558Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:14.635Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:26.845Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:26.906Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:30.919Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:30.984Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:38.186Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:38.279Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:45:40.631Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:45:40.695Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:46:43.878Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:46:43.947Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:46:54.981Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:46:55.057Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:47:34.079Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:47:34.147Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:47:35.501Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:47:35.596Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:47:41.462Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:47:41.521Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:47:54.825Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:47:54.884Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:47:57.551Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:47:57.615Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:14.116Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:14.182Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:15.650Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:15.710Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:17.367Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:17.493Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:18.757Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:18.812Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:21.282Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:21.357Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:25.025Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:25.100Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:48:28.381Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:48:28.454Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:15.569Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:15.631Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:22.823Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:22.898Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:24.714Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:24.785Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:31.997Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:32.067Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:38.004Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:38.065Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:40.204Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:40.277Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:41.131Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:41.192Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:51.160Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:51.233Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:49:56.701Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:49:56.767Z"}
+{"body":{"endDate":"2024-04-20","projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":46,"status":"failed","timestamp":"2024-08-14T07:50:53.308Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:51:30.070Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:51:30.139Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:51:36.729Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:51:36.812Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:51:38.157Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:51:38.219Z"}
+{"body":{"endDate":"2024-04-20","projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":41,"status":"success","timestamp":"2024-08-14T07:51:44.977Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":8,"status":"success","timestamp":"2024-08-14T07:52:15.020Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:53:09.264Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:53:09.362Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:53:10.980Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:53:11.075Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":24,"status":"success","timestamp":"2024-08-14T07:53:13.744Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:53:46.057Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:53:46.131Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:53:46.842Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:53:46.897Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":50,"status":"success","timestamp":"2024-08-14T07:53:49.540Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:54:02.054Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:54:02.160Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:54:03.208Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:54:03.344Z"}
+{"body":{"projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":28,"status":"success","timestamp":"2024-08-14T07:54:06.832Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"endDate":"2024-04-20","projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":10,"status":"success","timestamp":"2024-08-14T07:54:26.650Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T07:55:16.872Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T07:55:16.939Z"}
+{"body":{"endDate":"2024-04-20","projectId":2},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":24,"status":"success","timestamp":"2024-08-14T07:55:19.708Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"body":{"endDate":"2024-04-20","projectId":3},"ip":"::ffff:127.0.0.1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":11,"status":"success","timestamp":"2024-08-14T07:56:55.204Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:34:51.832Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"error","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: YES)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: YES)\n    at PromisePool.query (C:\\Users\\rlanka1\\Desktop\\node-task1\\node_modules\\mysql2\\promise.js:356:22)\n    at file:///C:/Users/rlanka1/Desktop/node-task1/src/app/v1/utils/dbConnection.js:16:31","timestamp":"2024-08-14T08:34:52.483Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:35:06.923Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:35:06.959Z"}
+{"body":{"projectId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":224,"status":"success","timestamp":"2024-08-14T08:35:30.195Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:39:22.442Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:39:22.478Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:39:38.403Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:39:38.495Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":84,"status":"failed","timestamp":"2024-08-14T08:40:04.626Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:40:24.962Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:40:24.998Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":33,"status":"success","timestamp":"2024-08-14T08:40:26.714Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":5,"status":"success","timestamp":"2024-08-14T08:40:31.077Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1,"startDate":"2024-02-20"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":5,"status":"success","timestamp":"2024-08-14T08:41:49.615Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"startDate":"2024-02-20"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":3,"status":"success","timestamp":"2024-08-14T08:42:04.553Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:45:04.611Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:45:04.647Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:45:06.854Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:45:06.887Z"}
+{"body":{"departmentId":2,"startDate":"2024-02-20"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":28,"status":"success","timestamp":"2024-08-14T08:45:09.140Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:50:15.742Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:50:15.777Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":65,"status":"success","timestamp":"2024-08-14T08:50:25.569Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:50:40.810Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:50:40.843Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:58:00.474Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:58:00.509Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T08:58:03.404Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:58:23.424Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:58:23.457Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T08:58:26.293Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T08:58:50.539Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T08:58:50.573Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":18,"status":"success","timestamp":"2024-08-14T08:58:52.451Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":7,"status":"success","timestamp":"2024-08-14T08:59:52.267Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":8,"status":"success","timestamp":"2024-08-14T09:00:23.063Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:00:30.510Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:00:30.544Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":61,"status":"failed","timestamp":"2024-08-14T09:00:32.633Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:00:48.872Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:00:48.907Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":48,"status":"failed","timestamp":"2024-08-14T09:01:17.979Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:02:08.327Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:02:08.361Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":32,"status":"success","timestamp":"2024-08-14T09:02:15.557Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:03:28.988Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:03:29.024Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:03:38.820Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:03:38.854Z"}
+{"body":{"employeeId":"67cbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":71,"status":"success","timestamp":"2024-08-14T09:03:51.246Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"ppcbc66b-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":11,"status":"success","timestamp":"2024-08-14T09:05:40.522Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:06:09.910Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:06:09.945Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":33,"status":"success","timestamp":"2024-08-14T09:06:59.366Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:07:31.195Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:07:31.230Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T09:07:38.822Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:07:55.316Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:07:55.350Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":28,"status":"success","timestamp":"2024-08-14T09:07:58.046Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:08:26.632Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:08:26.666Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":18,"status":"success","timestamp":"2024-08-14T09:08:28.007Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:09:32.478Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:09:32.512Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":17,"status":"failed","timestamp":"2024-08-14T09:09:35.734Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1,"employeeId":"ee519f81-596b-11ef-8683-8cec4bc9914d","hoursWorked":30,"projectId":1,"role":"sales"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":33,"status":"success","timestamp":"2024-08-14T09:16:03.811Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":7,"status":"failed","timestamp":"2024-08-14T09:22:30.401Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:23:10.912Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:23:10.946Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":21,"status":"success","timestamp":"2024-08-14T09:23:12.847Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:24:00.422Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:24:00.456Z"}
+{"body":{"departmentId":2,"startDate":"2024-02-20"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":19,"status":"success","timestamp":"2024-08-14T09:24:14.271Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":4,"status":"success","timestamp":"2024-08-14T09:24:26.078Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":6,"status":"success","timestamp":"2024-08-14T09:24:30.372Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":6,"status":"success","timestamp":"2024-08-14T09:25:21.688Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:26:32.314Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:26:32.348Z"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":25,"status":"failed","timestamp":"2024-08-14T09:26:52.944Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":6,"status":"success","timestamp":"2024-08-14T09:26:57.453Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"11144475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":4,"status":"failed","timestamp":"2024-08-14T09:29:58.524Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":"42c44475-596e-11ef-8683-8cec4bc9914d","salary":90000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":9,"status":"success","timestamp":"2024-08-14T09:30:12.769Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:33:23.949Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:33:23.983Z"}
+{"body":{"employeeId":"09009-599d-11ef-8683-8cec4bc9914d"},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":26,"status":"failed","timestamp":"2024-08-14T09:33:26.792Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"employeeId":"113fcc17-599c-11ef-8683-8cec4bc9914d","hoursWorked":40,"projectId":2,"role":"development"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":47,"status":"success","timestamp":"2024-08-14T09:41:00.024Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"employeeId":"012d8f5b-599a-11ef-8683-8cec4bc9914d","hoursWorked":50,"projectId":2,"role":"sales"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":28,"status":"success","timestamp":"2024-08-14T09:41:25.142Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:43:17.763Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:43:17.797Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-14T09:49:07.440Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-14T09:49:07.474Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:41:19.690Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:41:19.731Z"}
+{"body":{"departmentId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/fetchEmployee","query":{},"responseTime":15,"status":"failed","timestamp":"2024-08-15T09:41:45.539Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":70,"status":"success","timestamp":"2024-08-15T09:42:55.338Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/fetchEmployee","query":{},"responseTime":4,"status":"success","timestamp":"2024-08-15T09:43:01.375Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:43:26.910Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:43:26.946Z"}
+{"body":{"department_id":2,"email":"Shyam@miraclesoft.com","employee_id":7,"first_name":"Shyam Kumar","hire_date":"2024-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":83,"status":"failed","timestamp":"2024-08-15T09:43:54.402Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":3,"first_name":"Shyam Kumar","hire_date":"2024-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":6,"status":"failed","timestamp":"2024-08-15T09:44:23.042Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":3,"first_name":"Shyam Kumar","hire_date":"2023-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":12,"status":"failed","timestamp":"2024-08-15T09:45:11.440Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:45:23.703Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:45:23.739Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:45:25.660Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:45:25.697Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:46:20.504Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:46:20.539Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:13.269Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:13.303Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:18.875Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:18.911Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:26.282Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:26.319Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:30.298Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:30.333Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:33.526Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:33.563Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:35.583Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:35.619Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:37.843Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:37.879Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:39.974Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:40.018Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:41.539Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:41.583Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:42.926Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:42.966Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:45.537Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:45.571Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:47:59.952Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:47:59.988Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:48:00.913Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:48:00.954Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:48:23.961Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:48:24.000Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:48:39.661Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:48:39.697Z"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":3,"first_name":"Shyam Kumar","hire_date":"2023-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":15,"status":"failed","timestamp":"2024-08-15T09:48:40.572Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":10,"first_name":"Shyam Kumar","hire_date":"2023-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":3,"status":"failed","timestamp":"2024-08-15T09:49:21.617Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:50:28.992Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:50:29.027Z"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":10,"first_name":"Shyam Kumar","hire_date":"2023-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":151,"status":"success","timestamp":"2024-08-15T09:50:30.942Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"department_id":2,"email":"sshyam@miraclesoft.com","employee_id":10,"first_name":"Shyam Kumar","hire_date":"2023-05-15","last_name":"Soppa","manager_id":2,"phone_number":"9876543210","salary":33000},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/addEmployee","query":{},"responseTime":10,"status":"failed","timestamp":"2024-08-15T09:50:39.546Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/v1/employee/updateEmployee","query":{},"responseTime":4,"status":"failed","timestamp":"2024-08-15T09:51:08.864Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":1,"salary":40000},"ip":"::1","level":"info","message":"HTTP Request","method":"PUT","path":"/updateEmployee","query":{},"responseTime":14,"status":"success","timestamp":"2024-08-15T09:51:23.104Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:51:41.412Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:51:41.451Z"}
+{"body":{"departmentId":1,"employeeId":5,"hoursWorked":90,"projectId":2,"role":"Developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/assignEmployee","query":{},"responseTime":19,"status":"failed","timestamp":"2024-08-15T09:52:26.003Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1,"employeeId":6,"hoursWorked":90,"projectId":2,"role":"Developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/assignEmployee","query":{},"responseTime":2,"status":"failed","timestamp":"2024-08-15T09:52:39.378Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":1,"employeeId":6,"hoursWorked":90,"projectId":2,"role":"Developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":26,"status":"failed","timestamp":"2024-08-15T09:52:48.761Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"employeeId":6,"hoursWorked":90,"projectId":2,"role":"Developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":6,"status":"failed","timestamp":"2024-08-15T09:56:31.195Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"departmentId":2,"employeeId":6,"hoursWorked":90,"projectId":1,"role":"Developer"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/assignEmployee","query":{},"responseTime":44,"status":"success","timestamp":"2024-08-15T09:56:54.528Z","userAgent":"PostmanRuntime/7.41.1"}
+{"body":{"employeeId":1},"ip":"::1","level":"info","message":"HTTP Request","method":"DELETE","path":"/deleteEmployee","query":{},"responseTime":76,"status":"failed","timestamp":"2024-08-15T09:57:21.158Z","userAgent":"PostmanRuntime/7.41.1"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T09:59:43.411Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T09:59:43.452Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-08-15T13:26:43.036Z"}
+{"level":"info","message":"Connected to MySQL database successfully!","timestamp":"2024-08-15T13:26:43.130Z"}
